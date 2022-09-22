@@ -26,3 +26,18 @@ C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programa
 C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\repositorio\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.csproj.CoreCompileInputs.cache
 C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\repositorio\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.exe
 C:\Users\valen\OneDrive\Escritorio\Facultad\2do Semestre\Laboratorio de Programacion II\repositorio\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.pdb
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.csproj.AssemblyReference.cache
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.frmConsultas.resources
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.frmCultivos.resources
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.frmInicio.resources
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.frmLocalidades.resources
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.frmProduccion.resources
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.Properties.Resources.resources
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.csproj.GenerateResource.cache
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.csproj.CoreCompileInputs.cache
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.exe
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\obj\Debug\pry.SP1.LopezValentin.pdb
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\bin\Debug\pry.SP1.LopezValentin.exe.config
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\bin\Debug\pry.SP1.LopezValentin.exe
+C:\Users\valen\Source\Repos\SP1Cultivos_LopezValentin\pry.SP1.LopezValentin\bin\Debug\pry.SP1.LopezValentin.pdb

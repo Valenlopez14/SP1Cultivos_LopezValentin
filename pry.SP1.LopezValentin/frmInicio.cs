@@ -53,5 +53,10 @@ namespace pry.SP1.LopezValentin
         }
         float[,] vecToneladas = new float[10, 10];
 
+        private void Consultas_Click(object sender, EventArgs e)
+        {
+            frmConsultas frmConsultas = new frmConsultas();
+            frmConsultas.ShowDialog();
+        }
     }
 }

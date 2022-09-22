@@ -21,7 +21,7 @@ namespace pry.SP1.LopezValentin
         private void cmdAceptar_Click(object sender, EventArgs e)
         {
             StreamWriter produccion = new StreamWriter("./Produccion.txt", true);
-            produccion.WriteLine(lstCultivos.Text + "" + lstLocalidad.Text + txtToneladas.Text);
+            produccion.WriteLine(lstLocalidad.Text + "," +  lstCultivos.Text + "," + txtToneladas.Text);
             MessageBox.Show("Archivo escrito con exito.");
             produccion.Close();
             lstCultivos.Text = "";
