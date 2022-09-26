@@ -61,12 +61,12 @@
             // 
             // Column1
             // 
-            this.Column1.HeaderText = "Cultivo";
+            this.Column1.HeaderText = "Localidad";
             this.Column1.Name = "Column1";
             // 
             // Column2
             // 
-            this.Column2.HeaderText = "Localidad";
+            this.Column2.HeaderText = "Cultivos";
             this.Column2.Name = "Column2";
             // 
             // Column3
@@ -92,9 +92,9 @@
 
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.DataGridView GrlConsultas;
+        private System.Windows.Forms.Button cmdListar;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.Button cmdListar;
     }
 }

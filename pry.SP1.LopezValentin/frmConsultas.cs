@@ -32,7 +32,7 @@ namespace pry.SP1.LopezValentin
                 string Cultivo = srProduccion.ReadLine();
                 string[] Consulta = Cultivo.Split(','); 
 
-                GrlConsultas.Rows.Add(Cultivo[0], Cultivo[1], Cultivo[2]);
+                GrlConsultas.Rows.Add(Consulta[0], Consulta[1], Consulta[2]);
             }
             srProduccion.Close();
         }
