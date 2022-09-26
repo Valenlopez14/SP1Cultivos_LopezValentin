@@ -27,11 +27,14 @@ namespace pry.SP1.LopezValentin
 
         private void cmdCargar_Click(object sender, EventArgs e)
         {
-
+            //Leer archivo txt o si no existe crearlo 
             StreamWriter cultivos = new StreamWriter("./Cultivos.txt", true);
+            //Cargar archivo txt con la informacion cargada por el usuario en la interfaz 
             cultivos.WriteLine(mskCultivos.Text+" " + txtCultivo.Text); 
             MessageBox.Show("Cultivo cargado con éxito.");
+            //Cerrar el archivo 
             cultivos.Close();
+            //lìmpiar interfaz para volver a utilizar
             txtCultivo.Text = "";
             mskCultivos.Text = "";
         }

@@ -43,9 +43,12 @@ namespace pry.SP1.LopezValentin
 
         private void frmProduccion_Load(object sender, EventArgs e)
         {
+            //Leer el archivo de txt 
             StreamReader lectorLocalidad = new StreamReader("./Localidad.txt");
+            //Mientras no esté en fin de archivo:
             while (!lectorLocalidad.EndOfStream)
             {
+                //Lee la linea de caracteres en el txt y agrega los datos a la lista desplegable
                 string saltoNro = lectorLocalidad.ReadLine();
 
                 lstLocalidad.Items.Add(saltoNro.Substring(4));
@@ -56,7 +59,8 @@ namespace pry.SP1.LopezValentin
             while (!lectorCultivos.EndOfStream)
             {
                 string saltoNro2 = lectorCultivos.ReadLine();
-
+                //Lee la linea de caracteres en el txt y agrega los datos a la lista desplegable 
+                //Substring corta los caracteres que están antes de lo que quiero agregar a la lista
                 lstCultivos.Items.Add(saltoNro2.Substring(4));
             }
             lectorCultivos.Close();
